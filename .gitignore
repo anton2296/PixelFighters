@@ -1,0 +1,12 @@
+# Godot 4 editor cache
+.godot/
+
+# Export/build artifacts
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crash dumps
+*.crash
